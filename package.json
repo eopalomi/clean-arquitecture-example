@@ -1,0 +1,19 @@
+{
+  "name": "clean-architecture-example---main",
+  "version": "1.0.0",
+  "description": "Proyecto ejemplo con arquitectura limpia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eopalomi/clean-arquitecture-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eopalomi/clean-arquitecture-example/issues"
+  },
+  "homepage": "https://github.com/eopalomi/clean-arquitecture-example#readme"
+}
